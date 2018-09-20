@@ -7,6 +7,12 @@
     "type": "git",
     "url": "https://github.com/rjmill/vue-cli-plugin-docker-compose.git"
   },
+  "keywords": [
+    "vue",
+    "vue-cli",
+    "docker",
+    "docker-compose"
+  ],
   "author": "Ryan Miller <rjmiller10@gmail.com>",
   "license": "MIT"
 }
