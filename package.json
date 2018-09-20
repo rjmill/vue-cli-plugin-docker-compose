@@ -1,0 +1,12 @@
+{
+  "name": "vue-cli-plugin-docker-compose",
+  "version": "0.0.1",
+  "description": "A vue CLI plugin that sets up docker-compose with your Vue project.",
+  "main": "index.js",
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/rjmill/vue-cli-plugin-docker-compose.git"
+  },
+  "author": "Ryan Miller <rjmiller10@gmail.com>",
+  "license": "MIT"
+}
